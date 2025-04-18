@@ -1,0 +1,17 @@
+---
+title: "Exploring the phylogenetic diversity and antimicrobial activity of non-aureus staphylococci and mammaliicocci isolated from teat apices of organic dairy cows"
+---
+
+***
+
+<div style="float: right; width: 460px; margin: 0 0 10px 10px;">
+![](./photos/dct_photo.png)
+
+</div>
+
+<font size="5">
+The objectives of this study were to identify the NASM species present on teat apices of organic dairy cows and examine their within-species phylogeny, as well as explore associations with intramammary infections (IMI) and genomic features, including genes related to antimicrobial peptides (AMPs), virulence, and antimicrobial resistance. In addition, we aimed to assess the in vitro antimicrobial activity of NASM isolates cultured from teat apices of cows with and without IMI, and investigate its associations with NASM taxonomy, within-species phylogeny, the presence of AMP genes, and IMI.
+
+ </font>
+</div>
+

@@ -1,0 +1,19 @@
+name: "Exploring the phylogenetic diversity and antimicrobial activity of non-aureus staphylococci and mammaliicocci isolated from teat apices of organic dairy cows"
+header-includes: 
+  \usepackage{graphicx}
+  \usepackage{float}
+output_dir: "docs"
+navbar:
+  title: "Home"
+  right:
+    - text: "Code and output"
+      menu:
+        - text: "1 - In vitro antimicrobial activity analysis"
+          href: nasm_wgs_article_part_1.html
+        - text: "2- WGS analysis"
+          href: nasm_wgs_article_part_2.html
+    - icon: fa-github fa-lg
+      href: http://github.com/fepenamosca/
+output:  
+   html_document:
+    theme: flatly
