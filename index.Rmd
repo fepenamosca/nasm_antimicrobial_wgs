@@ -4,8 +4,8 @@ title: "Exploring the phylogenetic diversity and antimicrobial activity of non-a
 
 ***
 
-<div style="float: right; width: 460px; margin: 0 0 10px 10px;">
-![](./photos/dct_photo.png)
+<div style="float: right; width: 300px; margin: 0 0 10px 10px;">
+![](./photos/lab_work.jpg)
 
 </div>
 
